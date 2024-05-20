@@ -16,7 +16,7 @@ package-lock.json
 
 # production
 /build
-.env.local
+.env
 sentry.server.config.ts
 sentry.client.config.ts
 sentry.edge.config.ts
